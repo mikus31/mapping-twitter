@@ -1,5 +1,7 @@
 # mapping-twitter
-Useful accounts to follow on Twitter for mapping info:
+Useful accounts to follow on Twitter for mapping info. Please add new accounts to the bottom.
+
+You can view/subscribe to the list on Twitter here ---> https://twitter.com/mikusthetiger/lists/mapping
 
 * @en_dash
 * @flowingdata

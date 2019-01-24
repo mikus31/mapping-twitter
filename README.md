@@ -40,6 +40,7 @@ You can view/subscribe to the list on Twitter here ---> https://twitter.com/miku
 * @gmapsmania
 * @HarvardMapColl
 * @hnshck
+* @igeolise
 * @infowetrust
 * @JamesNiehues
 * @jatorre
@@ -100,6 +101,7 @@ You can view/subscribe to the list on Twitter here ---> https://twitter.com/miku
 * @PetersonGIS
 * @petrichorviz
 * @pinakographos
+* @pokateo_
 * @PostGraphics
 * @ProfDeaner
 * @punkish
@@ -127,6 +129,7 @@ You can view/subscribe to the list on Twitter here ---> https://twitter.com/miku
 * @williamscraigm
 * @WIStCart
 * @zingbot
+
 
 
 New Accounts To Add
